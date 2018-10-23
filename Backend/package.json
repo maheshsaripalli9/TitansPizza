@@ -20,9 +20,9 @@
   "author": "CodeTitans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/utsavjain1408/CMPE280CodeTitans/issues"
+    "url": "https://github.com/maheshsaripalli9/TitansPizza/issues"
   },
-  "homepage": "https://github.com/utsavjain1408/CMPE280CodeTitans#readme",
+  "homepage": "https://github.com/maheshsaripalli9/TitansPizza#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "connect-mongo": "^2.0.1",
